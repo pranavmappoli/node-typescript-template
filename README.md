@@ -1,4 +1,4 @@
-# node-typescript-template
+# node-typescript-template (with Hot-Reload)
 
 [![Sponsor][sponsor-badge]][sponsor]
 [![TypeScript version][ts-badge]][typescript-5-1]
