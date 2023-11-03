@@ -1,4 +1,4 @@
-# node-typescript-template - 2023
+# node-typescript-template - 2024
 
 [![Sponsor][sponsor-badge]][sponsor]
 [![TypeScript version][ts-badge]][typescript-5-1]
