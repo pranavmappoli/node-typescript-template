@@ -47,7 +47,7 @@ npm install
 
 ## Available Scripts
 
-- `start`: combile and run source code in watch mode
+- `start`: compile and run source code in watch mode
 - `clean` - remove coverage data, Jest cache and transpiled files,
 - `prebuild` - lint source files and tests before building,
 - `build` - transpile TypeScript to ES6,
