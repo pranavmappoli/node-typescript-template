@@ -76,7 +76,7 @@ Please do not open issues for questions regarding CommonJS or ESM on this repo.
 
 ## License
 
-Licensed under the APLv2. See the [LICENSE](https://github.com/jsynowiec/node-typescript-boilerplate/blob/main/LICENSE) file for details.
+Licensed under the MIT License. See the [LICENSE](https://github.com/pranavmappoli/node-typescript-template/blob/main/LICENSE) file for details.
 
 [ts-badge]: https://img.shields.io/badge/TypeScript-5.1-blue.svg
 [nodejs-badge]: https://img.shields.io/badge/Node.js->=%2018.12-blue.svg
