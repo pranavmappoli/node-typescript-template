@@ -1,4 +1,4 @@
-# node-typescript-boilerplate
+# node-typescript-template
 
 [![Sponsor][sponsor-badge]][sponsor]
 [![TypeScript version][ts-badge]][typescript-5-1]
